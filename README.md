@@ -10,23 +10,23 @@ root 5 olsun.
 
 2. step: 7, 5'in saginda bulunur.
 
-		5
-		 \
-		  7
+            5
+             \
+              7
 
 3. step: 1, 5'in solunda bulunur.
 
-		5
-	   / \
-   	  1   7
+            5
+           / \
+          1   7
 
 4. step: 8, 5'in ve 7'nin saginda bulunur.
 
-		5
-	   / \
-      1   7
-   		   \
-   		    8
+        		5
+        	   / \
+              1   7
+         		   \
+        		    8
 
 5. step: 3, 5'in solunda, 1'in saginda bulunur.
 
