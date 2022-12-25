@@ -22,7 +22,7 @@ root 5 olsun.
 
 	   / \
 
-	  1   7
+   	  1   7
 
 4. step: 8, 5'in ve 7'nin saginda bulunur.
 
@@ -30,39 +30,39 @@ root 5 olsun.
 
 	   / \
 
-	  1   7
+      1   7
 
-		   \
+   		   \
 
-		    8
+   		    8
 
 5. step: 3, 5'in solunda, 1'in saginda bulunur.
 
 		5
 
-	   / \
+   	   / \
 
-	  1   7
+   	  1   7
 
-	   \   \
+   	   \   \
 
-		3   8
+   		3   8
 
 6. step: 6, 5'in saginda, 7'nin solunda bulunur.
 
 	   5
 
-	  /	\
+   	  /	\
 
-	 /	 \
+   	 /	 \
 
-	/     \
+   	/     \
 
    1       7
 
     \     / \
 
-	 3   6   8
+   	 3   6   8
 
 7. step: 0, 5'in ve 1'in solunda bulunur.
 
